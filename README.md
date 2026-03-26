@@ -1,7 +1,5 @@
 # 现代 C++ 响应式编程框架
 
-[🇨🇳 中文文档](README.zh-CN.md) | [🇬🇧 English](README.md)
-
 [![C++20](https://img.shields.io/badge/C++-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
 [![仅头文件](https://img.shields.io/badge/Header--only-是-green.svg)](https://en.wikipedia.org/wiki/Header-only)
 [![CMake](https://img.shields.io/badge/CMake-3.15+-blueviolet.svg)](https://cmake.org)
