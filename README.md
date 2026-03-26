@@ -1,4 +1,4 @@
-# Reaction: 现代 C++ 响应式编程框架
+# 现代 C++ 响应式编程框架
 
 [🇨🇳 中文文档](README.zh-CN.md) | [🇬🇧 English](README.md)
 
